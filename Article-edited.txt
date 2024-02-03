@@ -1,0 +1,36 @@
+Apple's iOS App Store announces sweeping changes in the EU
+https://www.axios.com/2024/01/25/apple-app-store-eu-changes
+Author: Ashley Gold, author of Axios Pro
+
+
+Apple will allow alternative app stores and other new options for app developers in order to comply with Europe's Digital Markets Act, the company said Thursday.
+
+Driving the news: Europe's major tech competition law, set to go into effect March 7, requires Apple to loosen its strict rules requiring developers to rely on the App Store for distribution and payment processing.
+
+Apple has long resisted any changes to its App Store rules, citing security and privacy. The company also argues its services for developers are best-in-class and ensure smooth user experiences free of spam or harmful content.
+
+Why it matters: Apple is being forced to make sweeping changes to one of its flagship "walled garden" systems in what some smaller companies are seeing as a major win.
+
+Spotify previewed what its app will look like in Europe post-March 7 this week.
+Apple said it has been in touch with developers about the coming changes and that its compliance adheres to the letter of the law.
+
+What they're saying: Apple is making these changes with the caveat that the company has done everything it can to ensure iOS devices remain secure and malware-free, but it has no plans to expand these options outside of Europe, citing risk.
+
+The company believes that after the DMA-imposed changes go through, people will start to understand why Apple has maintained its strict policies for developers.
+"Across every change, Apple is introducing new safeguards that reduce — but don't eliminate — new risks the DMA poses to EU users," the company said in a release.
+
+Yes, but: Apple is also introducing new fee structures for developers who take advantage of the new freedoms.
+
+Details: As part of iOS 17.4, Apple will charge a "core technology fee" of €.50 for "each first annual install per year" for developers whose apps have achieved more than 1 million downloads, to be counted once per Apple account.
+
+That fee will apply to apps that switch to their own marketplaces or remain on the App Store. Apple says the fee "reflects the many ways Apple creates value for developers' businesses."
+The App Store commission, for developers who continue to use it, will drop from 30% to 17%. The discounted rate for certain developers will drop from 15% to 10%.
+No commission will be charged to developers who want to distribute and facilitate in-app payments outside of the App Store. Apple said that approximate 99% of developers will pay the same or less in fees.
+
+Go deeper: The iOS changes will include notarization for iOS apps, authorization for marketplace developers and disclosures on alternative payments. Apple says in the release that if apps opt out of Apple's system, the company "has less ability to address other risks" like "scam, fraud, abuse" or "objectionable or harmful" content.
+
+Users in the EU will also see a browser choice screen in iOS 17.4 to pick a default browser.
+
+The other side: Epic Games CEO Tim Sweeney said on X: "Apple's plan to thwart Europe's new Digital Markets Act law is a devious new instance of Malicious Compliance... Epic has always supported the notion of Apple notarization and malware scanning for apps, but we strongly reject Apple's twisting this process to undermine competition and continue imposing Apple taxes on transactions they're not involved in."
+
+What to watch: It's up to the European Commission to determine whether Apple's plan fully complies with the DMA. iPhone app developers face a whole new world of choices, and time will tell if the changes boost competition and improve experiences for users.
